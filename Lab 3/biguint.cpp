@@ -1,5 +1,3 @@
-//Parneet Kaur: Lab 3 Code
-
 #include <iostream>
 #include <string>
 #include <assert.h>
